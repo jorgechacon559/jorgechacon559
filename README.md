@@ -19,11 +19,11 @@
 
 ---
 
-### Mi Misión Profesional
+### 🚀 Mi Misión Profesional
 
-[cite_start]Como futuro **Ingeniero en Sistemas Computacionales** [cite: 11][cite_start], mi pasión es construir puentes entre los desafíos complejos y las soluciones tecnológicas de vanguardia[cite: 6]. [cite_start]Me especializo en **automatización, datos e inteligencia artificial** [cite: 4][cite_start], utilizando Python, el desarrollo web y el análisis de datos para crear herramientas que no solo funcionan, sino que impulsan un cambio real[cite: 5].
+Como futuro **Ingeniero en Sistemas Computacionales**, mi pasión es construir puentes entre desafíos complejos y soluciones tecnológicas innovadoras. Me especializo en **automatización, datos e inteligencia artificial**, utilizando Python, desarrollo web y análisis de datos para crear herramientas que no solo funcionan, sino que impulsan un cambio real.
 
-[cite_start]Mi experiencia liderando la transformación digital en Teteocan Technologies me ha enseñado a convertir ideas en realidades Full-Stack [cite: 5] [cite_start]y a optimizar la eficiencia operativa a través de la tecnología[cite: 29]. [cite_start]Mi motor es una mentalidad de crecimiento constante, siempre con el objetivo de adquirir nuevas competencias y explorar el siguiente horizonte tecnológico[cite: 6, 9].
+Mi experiencia liderando la transformación digital en Teteocan Technologies me ha enseñado a convertir ideas en realidades Full-Stack y optimizar la eficiencia operativa a través de la tecnología. Mi motor es una mentalidad de crecimiento constante, siempre adquiriendo nuevas competencias y explorando el siguiente horizonte tecnológico.
 
 ---
 
