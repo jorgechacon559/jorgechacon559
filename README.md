@@ -25,12 +25,11 @@
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jorgechacon559&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.vercel.app/?user=jorgechacon559&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jorgechacon559&show_icons=true&theme=radical&hide_border=true&locale=es" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgechacon559&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgechacon559&layout=compact&theme=radical&hide_border=true&locale=es" alt="Top Languages" />
 </p>
 
 ---
