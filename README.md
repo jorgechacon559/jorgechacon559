@@ -25,7 +25,7 @@
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jorgechacon559&show_icons=true&theme=radical&hide_border=true&locale=es" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jorgech559&show_icons=true&theme=radical&hide_border=true&locale=es" alt="GitHub Stats" />
 </p>
 
 <p align="center">
