@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="mailto:jorgechaconzarate@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D4AF37?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Personal" />
+    <img src="https://img.shields.io/badge/-Email-D4AF37?style=for-the-badge&logo=gmail&logoColor=white" alt="Email personal" />
   </a>
   <a href="https://www.linkedin.com/in/jorgealejandrochacon" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-E6C200?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -15,7 +15,7 @@
   <a href="https://github.com/jorgechacon559" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-1f2937?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://github.com/jorgechacon559/jorgechacon559" target="_blank">
+  <a href="https://github.com/jorgechacon559?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
   </a>
 </p>
